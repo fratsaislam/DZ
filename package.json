@@ -1,7 +1,7 @@
 {
   "name": "broadcast-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "by fratsaislam",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
